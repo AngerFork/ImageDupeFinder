@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <!-- WPF is referenced only for its WIC imaging codecs (WebP, HEIC, AVIF, JPEG XR fallback). -->
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <!-- Off because WinForms and WPF share type names (Image, Application, PixelFormat...). -->
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>ImageDupeFinder.App</RootNamespace>
+    <AssemblyName>ImageDupeFinder</AssemblyName>
+    <AssemblyTitle>Image Duplicate Finder</AssemblyTitle>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ImageDupeFinder.Core\ImageDupeFinder.Core.csproj" />
+  </ItemGroup>
+
+</Project>

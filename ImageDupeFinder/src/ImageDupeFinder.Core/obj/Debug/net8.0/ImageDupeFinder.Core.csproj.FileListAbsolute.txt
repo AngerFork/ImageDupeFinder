@@ -1,0 +1,11 @@
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\bin\Debug\net8.0\ImageDupeFinder.Core.deps.json
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\bin\Debug\net8.0\ImageDupeFinder.Core.dll
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\bin\Debug\net8.0\ImageDupeFinder.Core.pdb
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\obj\Debug\net8.0\ImageDupeFinder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\obj\Debug\net8.0\ImageDupeFinder.Core.AssemblyInfoInputs.cache
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\obj\Debug\net8.0\ImageDupeFinder.Core.AssemblyInfo.cs
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\obj\Debug\net8.0\ImageDupeFinder.Core.csproj.CoreCompileInputs.cache
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\obj\Debug\net8.0\ImageDupeFinder.Core.dll
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\obj\Debug\net8.0\refint\ImageDupeFinder.Core.dll
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\obj\Debug\net8.0\ImageDupeFinder.Core.pdb
+C:\Users\anger\Downloads\ImageDupeFinder\ImageDupeFinder\src\ImageDupeFinder.Core\obj\Debug\net8.0\ref\ImageDupeFinder.Core.dll
